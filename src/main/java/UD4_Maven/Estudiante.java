@@ -96,7 +96,7 @@ public class Estudiante {
      */
     public boolean esUniversitario() {
         return edad >= 18;
-    }
+    } 
 
     /**
      * Método para imprimir la información del estudiante.
