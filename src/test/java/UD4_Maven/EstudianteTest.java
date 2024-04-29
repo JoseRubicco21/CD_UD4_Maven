@@ -1,12 +1,13 @@
 package UD4_Maven;
 
 
-import static org.junit.Assert.assertTrue;
-import static org.junit.Assert.assertFalse;
-import org.junit.Test;
+import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
-public class Estudiante_Tests {
+import org.junit.jupiter.api.Test;
 
+public class EstudianteTest {
+	
 	@Test
 	public void esUniversiterioTest() {
 		Estudiante e = new Estudiante("Pepe", 21);
