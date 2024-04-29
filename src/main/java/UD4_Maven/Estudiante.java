@@ -1,5 +1,8 @@
 package UD4_Maven;
 
+/**
+ * Clase que describe un objeto estudiante.
+ */
 public class Estudiante {
 	
 	/**
