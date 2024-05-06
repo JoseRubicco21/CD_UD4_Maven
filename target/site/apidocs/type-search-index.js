@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"UD4_Maven","l":"Anagrama"},{"p":"UD4_Maven","l":"App"},{"p":"UD4_Maven","l":"Estudiante"}];updateSearchResults();
